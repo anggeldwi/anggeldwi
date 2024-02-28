@@ -18,8 +18,8 @@ I'm Anggel Dwi Miranda, a passionate and aspiring Backend Engineer on a journey 
 
 <div align="center">
   <a href="https://github.com/anggeldwi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anggeldwi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggeldwi&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anggeldwi&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggeldwi&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 
 <!--
