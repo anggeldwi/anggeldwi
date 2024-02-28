@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Anggel Dwi Miranda, a passionate and aspiring Backend Engineer on a journey of continuous learning. Currently in the early stages of my career, I am dedicated to honing my skills and evolving into a proficient Backend Engineer.
 <!--
 **anggeldwi/anggeldwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
