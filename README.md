@@ -16,12 +16,13 @@ I'm Anggel Dwi Miranda, a passionate and aspiring Backend Engineer on a journey 
 - 📚 Actively learning and staying updated with the latest technologies and best practices
 - 🔧 Excited to contribute to meaningful projects and collaborate with fellow developers.
 
+<!--
 <div align="center">
   <a href="https://github.com/anggeldwi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anggeldwi&show_icons=true&theme=transparent"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anggeldwi&layout=compact&langs_count=7&theme=transparent"/>
 </div>
-
+-->
 <!--
 **anggeldwi/anggeldwi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
